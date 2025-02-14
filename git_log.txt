@@ -1,0 +1,32 @@
+commit bc8f5cc9999166817081fe004f6dc08d8ee7502c
+Author: Benjamin Xie Geiser <121783863+bennygeiser@users.noreply.github.com>
+Date:   Thu Feb 13 22:51:01 2025 -0800
+
+    Update index.html
+
+commit 2b0b5dee6c540d5b977c8c48c70862d52bf65f24
+Author: Benjamin Xie Geiser <121783863+bennygeiser@users.noreply.github.com>
+Date:   Thu Feb 13 22:44:37 2025 -0800
+
+    Create README.md
+
+commit c64c7eb8e06d9f7afd47308e13b1c3d2a4b73812
+Merge: 1d2bfc0 c803d51
+Author: Benjamin Xie Geiser <121783863+bennygeiser@users.noreply.github.com>
+Date:   Thu Feb 13 22:43:02 2025 -0800
+
+    Merge pull request #1 from bennygeiser/info-fill
+    
+    Update index.html
+
+commit c803d51cccf83291c9282c1d6d58c9e7ce18452f
+Author: Benjamin Xie Geiser <121783863+bennygeiser@users.noreply.github.com>
+Date:   Thu Feb 13 22:42:07 2025 -0800
+
+    Update index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
